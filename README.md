@@ -11,8 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 Clone this repository:
 
 ```
-git clone https://github.com/TomerRon/react-auth-quickstart
-cd react-auth-quickstart
+git clone https://github.com/TomerRon/react-jwt-quickstart
+cd react-jwt-quickstart
 ```
 
 Install the required node modules:
