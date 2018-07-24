@@ -1,6 +1,6 @@
 # react-jwt-quickstart
 
-This respository contains boilerplate code to get started on a full-stack web application built with Express, React, PostgreSQL, Passport and JSON Web Token.
+This repository contains boilerplate code to get started on a full-stack web application built with Express, React, PostgreSQL, Passport and JSON Web Token.
 
 ## Getting Started
 
